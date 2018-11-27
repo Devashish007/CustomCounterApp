@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomCounter</string>
+    <string name="button_count">Count</string>
+    <string name="view_count">0</string>
+    <string name="button_zero">Zero</string>
+    <string name="button_toast">Toast</string>
+</resources>
